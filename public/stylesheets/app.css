@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1432821596592-e2c18b78144f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80);
+    background-size: cover;
+    /* background-position: center; */
+}
+
+
+
+
+i.icon {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 7em;
+    
+}
+
+#delete {
+    display: inline;
+}
